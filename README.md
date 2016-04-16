@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+I am human.
+
+I like coffee. No cream, no sugar.
